@@ -1,0 +1,49 @@
+
+.cal{
+    margin-top: 30px;
+text-align: center;
+font-size: 12px;
+background-color: black;
+width: 499px;
+    padding: 12px;
+    border-radius: 20px;
+    margin: auto;
+}
+table{
+    /* background-color: rgb(70, 70, 70); */
+    margin: auto;
+}
+input[type=text]{
+    width: 427px;
+    height: 67px;
+    /* text-align: center; */
+    border-radius: 20px;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+button{
+    background-color: rgb(70, 70, 70);
+    color: aliceblue;
+    height: 90px;
+    width: 90px;
+    border-radius: 20px;
+    font-size: x-large;
+    margin: 8px;
+}
+h1{
+    font-size: xx-large;
+    margin: 20px;
+    color:rgb(133, 201, 192);
+}
+.neon{
+   color: rgb(93, 243, 121);
+}
+.neo{
+background-color: rgb(93, 243, 121);
+color: aliceblue;
+}
+.fl{
+margin: 27px;
+}
